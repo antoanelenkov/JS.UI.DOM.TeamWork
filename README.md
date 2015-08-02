@@ -6,7 +6,7 @@
 
 - The graphic of the game is both canvas and SVG. 
  
-- There is also an option for rating, commenting and showing highscore. 
+- There is also an option for rating, commenting and showing highscores. 
 
 - Everything is stored in (localdb). 
 
